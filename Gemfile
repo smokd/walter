@@ -8,6 +8,6 @@ gem 'wdm', '~> 0.1', platforms: [:mswin, :mingw]
 
 gem 'rake'
 gem 'puma'
-gem 'rake-contrib'
+gem 'rack-contrib'
 
 
