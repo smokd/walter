@@ -1,5 +1,5 @@
 require "rack"
-require "rack7contrib7try_static"
+require "rack/contrib/try_static"
 
 use Rack::Head
 
